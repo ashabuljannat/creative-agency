@@ -1,0 +1,12 @@
+.sidebar{
+    position: fixed;background-color:aqua;
+}
+.sidebar li{
+    margin-bottom: 5px;
+    font-weight: bold;list-style: none;
+}
+.sidebar li:hover {
+    display: inline-block;
+    color: #009444;}
+
+ 
